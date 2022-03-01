@@ -1,3 +1,6 @@
 [submodule "Haskell"]
 	path = Haskell
-	url = git@gitlab.cs.usu.edu:jaxtonw/sp22-sdw-haskell-presentation
+	url = git@github.com:USUSDW/sp22-haskell-presentation.git
+[submodule "CPresentation"]
+	path = CPresentation
+	url = git@github.com:USUSDW/sp22-c-presentation.git
