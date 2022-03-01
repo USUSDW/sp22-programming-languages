@@ -1,0 +1,3 @@
+[submodule "Haskell"]
+	path = Haskell
+	url = git@gitlab.cs.usu.edu:jaxtonw/sp22-sdw-haskell-presentation
