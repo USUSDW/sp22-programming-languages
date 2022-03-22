@@ -7,6 +7,7 @@ This repository is for the USUSDW programming language presentations hosted duri
     *   This presentation was on TypeScript and C, presented by Hunter Henrichsen and Dalyn Dalton respectively
 *   Presentation 2:
     *   Hosted on March 21st, 2022
+    *   This presentation was on Rust and Haskell, presented by Makayden Lofthouse and Jaxton Winder respectively
 
 #### Getting The Sub Repositories
 Please do note that some of the work for this presentation exists on other linked Git repositories. After cloning this project, run the commands `git submodule init` and `git submodule update` to clone and update subrepositories that this repository links to.
