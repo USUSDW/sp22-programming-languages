@@ -1,6 +1,12 @@
 # Programming Languages Meeting
 
-This repository is for the USUSDW presentation hosted on February 28th, 2022. This presentation will introduce 3 unique programming languages.
+This repository is for the USUSDW programming language presentations hosted during the Spring 2022 semester. 
+
+*   Presentation 1:
+    *   Hosted on February 28th, 2022 
+    *   This presentation was on TypeScript and C, presented by Hunter Henrichsen and Dalyn Dalton respectively
+*   Presentation 2:
+    *   Hosted on March 21st, 2022
 
 #### Getting The Sub Repositories
 Please do note that some of the work for this presentation exists on other linked Git repositories. After cloning this project, run the commands `git submodule init` and `git submodule update` to clone and update subrepositories that this repository links to.
@@ -11,6 +17,9 @@ Please do note that some of the work for this presentation exists on other linke
         *   [Direct Repo Link](https://github.com/USUSDW/sp22-c-presentation)
 *   TypeScript programming language, presented by Hunter Henrichsen
     *   [TypeScript Presentation Slides](TypeScript.pdf)
+*   Rust programming language, presented by Makayden Lofthouse
+    *   [Rust Presentation Repository](Rust)
+        *   [Direct Repo Link](https://github.com/USUSDW/sp22-rust-presentation)
 *   Haskell programming language, presented by Jaxton Winder
     *   [Haskell Presentation Repository](Haskell)
         *   [Direct Repo Link](https://github.com/USUSDW/sp22-haskell-presentation)

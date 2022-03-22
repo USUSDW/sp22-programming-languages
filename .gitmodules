@@ -4,3 +4,6 @@
 [submodule "CPresentation"]
 	path = CPresentation
 	url = git@github.com:USUSDW/sp22-c-presentation.git
+[submodule "Rust"]
+	path = Rust
+	url = git@github.com:USUSDW/sp22-rust-presentation.git
