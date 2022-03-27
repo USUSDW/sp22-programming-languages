@@ -136,11 +136,13 @@ You can utilize the REPL.it free online Haskell REPL if you would like to follow
 # Authors, Presenters, and Contributors
 A special thanks to everyone who made this presentation possible.
 
-*   Hunter Henrichsen
+*   Hunter Henrichsen ([GitHub](https://github.com/hhenrichsen))
     *   Author and presenter of TypeScript presentation
-*   Dalyn Dalton
+*   Dalyn Dalton ([GitHub](https://github.com/dalyndalton))
     *   Author and presenter of C presentation
-*   Jaxton Winder
+*   Makayden Lofthouse ([GitHub](https://github.com/mloft74))
+    *   Author and presenter of Rust presentation
+*   Jaxton Winder ([GitHub](https://github.com/jaxtonw))
     *   Author and presenter of Haskell presentation
     *   Authored this repository
 *   And you, patrons of the USUSDW!
