@@ -69,6 +69,33 @@ There exists an online environment for C code on REPL.it. This lightweight envir
 
 *   [C on REPL.it](https://replit.com/languages/c)
 
+## Rust Environments
+
+### Local
+The easiest and recommended way to install Rust is using Rustup. The process is fairly similar for all platforms, and you will be able to get up and running fairly quickly most of the time. The "Getting started" page provides basic info to get Rust installed, and [the book](https://doc.rust-lang.org/book/) has a chapter that has more detailed instructions on installing Rust.
+
+*   [Getting started](https://www.rust-lang.org/learn/get-started)
+*   [Chapter on installing Rust](https://doc.rust-lang.org/book/ch01-01-installation.html)
+
+The most important tools that will get installed with Rustup are as follows:
+
+*   `rustup`: tool for managing your Rust installation(s)
+*   `rustc`: the Rust compiler
+*   `cargo`: Rust's build system which allow you to integrate Rust packages (called "crates") into your project
+
+Most of the time, you will be using `cargo` to build and run your projects, as it is more ergonomic than `rustc`, especially when using external crates. With `rustup`, you can update your Rust toolchains, install nightly toolchains, and install binary crates to use as programs on your system.
+
+### Online
+If you want try Rust on the web, you can do so with the Rust Playground or by using REPL.it.
+
+The Rust Playground allows you to switch between stable and nightly toolchains, choosing debug or release optimizations, which edition of the language you want to use, and some development tools such as Rustfmt and Clippy (formatter and linter, respectively).
+
+*   [Rust Playground](https://play.rust-lang.org/)
+
+REPL.it gives you access to a shell, so you can explore the options of `rustc` and `cargo` interactively in that shell (though the project is just a main.rs file rather than a Cargo project, so `cargo` won't be very usable on it).
+
+*   [Rust on REPL.it](https://replit.com/languages/rust)
+
 ## Haskell Environments
 
 ### Local Tools
@@ -109,11 +136,13 @@ You can utilize the REPL.it free online Haskell REPL if you would like to follow
 # Authors, Presenters, and Contributors
 A special thanks to everyone who made this presentation possible.
 
-*   Hunter Henrichsen
+*   Hunter Henrichsen ([GitHub](https://github.com/hhenrichsen))
     *   Author and presenter of TypeScript presentation
-*   Dalyn Dalton
+*   Dalyn Dalton ([GitHub](https://github.com/dalyndalton))
     *   Author and presenter of C presentation
-*   Jaxton Winder
+*   Makayden Lofthouse ([GitHub](https://github.com/mloft74))
+    *   Author and presenter of Rust presentation
+*   Jaxton Winder ([GitHub](https://github.com/jaxtonw))
     *   Author and presenter of Haskell presentation
     *   Authored this repository
 *   And you, patrons of the USUSDW!
